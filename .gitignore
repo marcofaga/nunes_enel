@@ -1,0 +1,6 @@
+*.gdb.zip
+*.rds
+*.csv
+/.Rproj.user/
+/.obsidian/
+.Rhistory
